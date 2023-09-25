@@ -1,3 +1,6 @@
+import java.net.URI;
+
+import javax.swing.DesktopManager;
 import javax.swing.JOptionPane;
 
 public class app_inventario {
@@ -16,7 +19,7 @@ public class app_inventario {
       "2. Consultar producto\n " +
       "3. Acutalizar producto\n " +
       "4. Registro de compras\n " +
-      "5. Reportes " +
+      "5. Reportes\n " +
       "6. Salir\n "));
     }
   }
